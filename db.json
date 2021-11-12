@@ -1,0 +1,24 @@
+{
+    "Hero" : [
+      { "heroID": 1, "heroName":"Captain Swinburne","minDiceValue":1, "maxDiceValue": 4, "initialUses": 2, "imageFileName": "Captain Swinburne.png"},
+      { "heroID": 2, "heroName":"Rick","minDiceValue":2, "maxDiceValue": 6, "initialUses": 4, "imageFileName": "Rick.png"}
+    ],
+    "Villain" : [
+        { "villainId": 1, "villainName":"ManagementMan","villainHealth":2, "imageFileName": "ManagementMan.png"},
+       { "villainId": 2, "villainName":"RussellSprout","villainHealth":4, "imageFileName": "RusselSprout.png"},
+       { "villainId": 3, "villainName":"TerroristTed","villainHealth":6, "imageFileName": "TerroristTed.png"}
+    ],
+    "AllGameResults" : [
+      { "GameResultsID": 1, "created": "11/7/21", "winnerName":"Villains"},
+      { "GameResultsID": 2, "created": "11/7/21", "winnerName":"Villains"},
+      { "GameResultsID": 3, "created": "11/2/21", "winnerName":"Villains"},
+      { "GameResultsID": 4, "created": "10/27/21", "winnerName":"Villains"},
+      { "GameResultsID": 5, "created": "10/22/21", "winnerName":"Villains"}
+    ],
+    "AddGameResults" : [
+    { "GameResultsID": null, "created": null, "winnerName": null}
+    ],
+    "profile": {
+      "name": "Riki225"
+    }
+  }
